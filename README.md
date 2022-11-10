@@ -1,2 +1,2 @@
 # watashi.js
-An AI library aim to make super Neural networks
+An AI library aim to research Artificial inteligence ideas
